@@ -1,0 +1,17 @@
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.csproj.AssemblyReference.cache
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.csproj.GenerateResource.cache
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.AssemblyInfoInputs.cache
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.AssemblyInfo.cs
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.csproj.CoreCompileInputs.cache
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\bin\Debug\net6.0-windows\NetworkHelperProject.exe
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\bin\Debug\net6.0-windows\NetworkHelperProject.deps.json
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\bin\Debug\net6.0-windows\NetworkHelperProject.runtimeconfig.json
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\bin\Debug\net6.0-windows\NetworkHelperProject.dll
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\bin\Debug\net6.0-windows\NetworkHelperProject.pdb
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.Form1.resources
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.dll
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\refint\NetworkHelperProject.dll
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.pdb
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\NetworkHelperProject.genruntimeconfig.cache
+C:\Users\gokul\source\repos\NetworkHelperProject\NetworkHelperProject\obj\Debug\net6.0-windows\ref\NetworkHelperProject.dll
